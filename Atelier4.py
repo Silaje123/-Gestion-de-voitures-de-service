@@ -91,3 +91,7 @@ print("---Retirer voiture---")
 e1.retirerVoiture()
 e2.afficherInformations()
 
+print("--- Test erreur ---")
+
+e3.affecterVoiture(v2)
+
