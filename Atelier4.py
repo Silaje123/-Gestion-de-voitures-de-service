@@ -58,3 +58,12 @@ class Voiture:
             print("Chauffeur:", self.chauffeur.nom, self.chauffeur.prenom)
         else:
             print("Aucun chauffeur")
+
+v1 = Voiture("A123", 2020, "Toyota", 50000)
+v2 = Voiture("B456", 2021, "Honda", 30000)
+v3 = Voiture("C789", 2019, "BMW", 70000)
+
+e1 = Employe("P111", "Michel", "Silaje")
+e2 = Employe("P222", "Marie", "Claire")
+e3 = Employe("P333", "Jean", "Paul")
+
