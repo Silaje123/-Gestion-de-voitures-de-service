@@ -86,3 +86,8 @@ e2.affecterVoiture(v2)
 e1.afficherInformations()
 e2.afficherInformations()
 
+print("---Retirer voiture---")
+
+e1.retirerVoiture()
+e2.afficherInformations()
+
