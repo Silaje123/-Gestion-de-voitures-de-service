@@ -77,3 +77,12 @@ v1.afficherInformations()
 v2.afficherInformations()
 v3.afficherInformations()
 
+
+print("---affectation---")
+
+e1.affecterVoiture(v1)
+e2.affecterVoiture(v2)
+
+e1.afficherInformations()
+e2.afficherInformations()
+
