@@ -67,3 +67,13 @@ e1 = Employe("P111", "Michel", "Silaje")
 e2 = Employe("P222", "Marie", "Claire")
 e3 = Employe("P333", "Jean", "Paul")
 
+print("---Employés---")
+e1.afficherInformations()
+e2.afficherInformations()
+e3.afficherInformations()
+
+print("---Voitures---")
+v1.afficherInformations()
+v2.afficherInformations()
+v3.afficherInformations()
+
